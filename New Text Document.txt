@@ -1,0 +1,69 @@
+Section 1 — Introduction to Yourself
+
+Hi, I'm Charith Anushka Herath, a final-year B.Sc. Information Technology student specializing in Cybersecurity at SLIIT, Colombo, Sri Lanka. I'm a CompTIA Security+ and eJPT certified professional with real-world experience as a SOC Analyst Intern at WSO2, where I monitored 30+ daily security incidents using Microsoft Azure Sentinel. I'm passionate about blue team operations, threat intelligence, and building secure systems. Outside of academics, I've competed in multiple CTF challenges — earning 2nd place at SLIIT ISACA's CTF 4.0 — and I'm currently developing a Cyber Threat Intelligence platform as my final year research project.
+
+Section:2  Reflective Journals,
+
+Journal 1: Business Writing & Professional Communication
+The Learning: Effective writing isn’t about big words; it’s about clarity and brevity. I learned to use the active voice, cut out filler phrases, and always include a clear call to action so the reader knows exactly what to do.
+
+The Application: At WSO2, I transformed my long, "buried" incident summaries into sharp, bulleted reports. This allowed senior analysts to grasp key findings and act on security threats much faster.
+
+Journal 2: Formal Email Writing & Netiquette
+The Learning: A professional email requires a clear subject line, formal salutations, and a structured body. I learned the "netiquette" of avoiding slang and contractions while using specific phrases for requests and follow-ups.
+
+The Application: I used these structures to request logs and escalate phishing investigations at WSO2. By making my requests professional and clear, I noticed a significant increase in how quickly other teams responded to me.
+
+Journal 3: Memo Writing & Internal Communication
+The Learning: Memos are formal internal documents (To, From, Date, Subject) used to communicate policies or decisions. They must be direct, informative, and strictly professional rather than conversational.
+
+The Application: While I didn't write memos daily, understanding this format helped me quickly interpret high-level security policy updates and escalation procedures within a corporate environment.
+
+Journal 4: Presentation Skills & Professional Confidence
+The Learning: Great presentations rely on the "6x7 rule" (limited text), visual contrast, and delivery techniques like vocal variety and body language. Confidence comes from preparation, not just personality.
+
+The Application: I applied these rules to my university projects and the SLIIT Codefest Technopreneur Challenge. Reducing slide clutter and rehearsing transitions helped me become a Top 10 Finalist.
+
+Journal 5: Formal Letter Writing & Documentation
+The Learning: Formal letters (for complaints, applications, or inquiries) carry more weight and formality than emails. Correct layout and a serious tone are essential for signaling professionalism.
+
+The Application: I applied this disciplined approach to formal security reports and compliance documentation. It sharpened my ability to switch to a high-level professional tone when the situation demanded it.
+
+Journal 6: Interview Preparation & Career Readiness
+The Learning: I mastered the STAR method (Situation, Task, Action, Result) to provide structured, measurable answers. I also learned the importance of company research and avoiding common pitfalls like rambling.
+
+The Application: I used the STAR method during my WSO2 internship interview to explain how I optimized KQL queries. This structured approach quantified my success and helped me secure the placement.
+
+Journal 7: Telephone Etiquette & Workplace Calls
+The Learning: A professional call needs an introduction, a clear purpose, and a summary of next steps. Active listening and maintaining a professional tone—even with difficult callers—is vital.
+
+The Application: I used these steps at WSO2 when verbally coordinating urgent phishing domain validations. Being clear and confirming actions before hanging up ensured no mistakes were made during time-sensitive tasks.
+
+Journal 8: Non-Verbal Communication & Behaviour
+The Learning: Over 60% of communication is non-verbal. I learned how posture, eye contact, and "paralanguage" (tone/pitch) can either project confidence or reveal nervousness.
+
+The Application: Through mock interviews, I identified habits like fidgeting and speaking too fast. Correcting these helped me stay composed and professional during high-pressure competitions like the SLIIT CTF.
+
+Journal 9: Personal Growth
+The Learning: Professionalism is a continuous process of self-reflection. I learned to identify my own strengths and gaps, turning vague career goals into a structured development plan.
+
+The Application: I realized that technical skills (certifications) must be paired with intentional communication. I now approach my journey from a junior SOC Analyst to a future team lead with much higher self-awareness.
+
+ection 3 — Career Development Plan
+Current Position: Final-year IT undergraduate, Cybersecurity Specialization, SLIIT (graduating May 2026)
+Career Goal: Senior SOC Analyst → Threat Intelligence Lead
+TimeframeGoalActions0–6 monthsLand a full-time SOC Analyst roleApply to Sri Lankan and remote SOC positions; leverage WSO2 internship experience6–12 monthsStrengthen detection & hunting skillsComplete CySA+ certification; build personal threat hunting lab1–3 yearsSpecialise in Threat IntelligencePursue CEH or OSCP; contribute to open-source CTI projects3–5 yearsMove into a senior/lead SOC roleTake on team leadership; publish threat research
+Key Skills to Develop: Cloud security (AWS/GCP), Malware Analysis, SOAR platforms, Python automation for threat detection
+
+Section 4 — Curriculum Vitae
+This will be pulled directly from your uploaded CV — no changes needed. It will be embedded as a styled section in the HTML page.
+
+Section 5- Tools and technologies section
+
+Section 6 — Certificates
+Both your CompTIA Security+ (SY0-701) and eJPT – Junior Penetration Tester certificates will be featured here. You'll need to upload images/PDFs of the actual certificates, but I'll design placeholder slots in the HTML that you can swap in.
+
+
+section-7
+
+contact form
